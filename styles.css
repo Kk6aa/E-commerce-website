@@ -189,18 +189,7 @@ hr {
     outline: none;
 }
 
-#new .row {
-    display: flex;
-    justify-content: space-between; 
-    align-items: stretch;
-}
 
-#new .one {
-    flex: 1; 
-    margin: 0px;
-    display: flex;
-    flex-direction: column;
-}
 
 #new .one img {
     width: 100%; 
